@@ -187,6 +187,7 @@
                 <file name="src/coin.js"/>
                 <file name="src/rock.js"/>
                 <file name="src/GameOverLayer.js"/>
+                <file name="src/TeachLayer.js"/>
                 <file name="main.js"/>
 
             </sources>
